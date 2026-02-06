@@ -1,0 +1,12 @@
+[
+  {
+    "name": "IMDB AutoEmbed",
+    "url": "https://raw.githubusercontent.com/dogankoca95-dev/Galbo/master/ImdbProvider.niste",
+    "version": 1,
+    "apiVersion": 1,
+    "description": "IMDB üzerinden film bilgilerini çeker ve AutoEmbed ile oynatır.",
+    "authors": ["dogankoca95"],
+    "iconUrl": "https://www.imdb.com/favicon.ico",
+    "status": 1
+  }
+]
